@@ -1,4 +1,4 @@
 local
 .DS_Store
 .ipynb_checkpoints
-.pyc
+**/__pycache__/**
